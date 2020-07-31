@@ -1,0 +1,165 @@
+{
+  "categorias": [
+    {
+      "titulo": "Mystify",
+      "link": "https://www.youtube.com/channel/UCYqMgcqxKA4uk8TLeU2DozQ/videos",
+      "cor": "#6BD1FF",
+      "link_extra": {
+        "text": "Canal oficial da banda Mystify",
+        "url": "https://www.youtube.com/channel/UCYqMgcqxKA4uk8TLeU2DozQ/videos"
+      },
+      "videos": [
+        {
+          "titulo": "Ensaio formação antiga",
+          "url": "https://www.youtube.com/watch?v=QpTzbdOStpo"
+        },
+        {
+          "titulo": "Blank infinity (Epica cover)",
+          "url": "https://www.youtube.com/watch?v=K3loxq3n-DA"
+        },
+        {
+          "titulo": "Emphasis (After Forever cover)",
+          "url": "https://www.youtube.com/watch?v=rVr3FZjxDt8"
+        },
+        {
+          "titulo": "Discord (After Forever cover)",
+          "url": "https://www.youtube.com/watch?v=cXQXANYNFeI"
+        },
+        {
+          "titulo": "Hope + Slaying the Dreamer (Ayreon + Nightwish Cover)",
+          "url": "https://www.youtube.com/watch?v=KCJ7b6s4I3M"
+        },
+        {
+          "titulo": "Elan (Nightwish Cover)",
+          "url": "https://www.youtube.com/watch?v=FS6DfgDTmfM"
+        },
+        {
+          "titulo": "Quietus (Epica Cover)",
+          "url": "https://www.youtube.com/watch?v=kiL0qgZM8Wo"
+        }        
+      ]
+    },
+    {
+      "titulo": "Automations Band",
+      "cor": "#00C86F",
+      "link_extra": {
+        "text": "Canal oficial da Automations Band",
+        "url": "https://www.youtube.com/channel/UCO5HexTb-r7WZlIE-7Pr0Nw"
+      },
+      "videos": [
+        {
+          "titulo": "Proud Mary-Burning love - Share pub",
+          "url": "https://www.youtube.com/watch?v=NRK6uOaF1dg"
+        },
+        {
+          "titulo": "Automations band - Born to be wild",
+          "url": "https://www.youtube.com/watch?v=yDgShZJySEs"
+        },
+        {
+          "titulo": "Automations band - Livin' on a prayer",
+          "url": "https://www.youtube.com/watch?v=BDfyLiz-Jng"
+        }        
+      ]
+    },
+    {
+      "titulo": "Games",
+      "cor": "#9cd33b",
+      "link_extra": {
+        "text": "Alguns games que postei no meu canal pessoal",
+        "url": "https://www.youtube.com/channel/UCk9zwdN5v_dZa7pjfll6W8g"
+      },
+      "videos": [
+        {
+          "titulo": "Castlevania Requiem: SOTN - Easy money without glitch or bug",
+          "url": "https://www.youtube.com/watch?v=jKcnAXA8J7c"
+        },
+        {
+          "titulo": "Fantasmas Equinos - bad quality",
+          "url": "https://www.youtube.com/watch?v=IET1TG8etus"
+        },
+        {
+          "titulo": "The Witcher 3 - Easter egg Monty Python",
+          "url": "https://www.youtube.com/watch?v=pmxqnWQILi0"
+        },
+        {
+          "titulo": "The Witcher 3  - Belos diálogos",
+          "url": "https://youtu.be/6dBlAYX-p8I?t=75"
+        }
+      ]
+    },
+    {
+      "titulo": "Clã Yggdrasil",
+      "cor": "orange",
+      "link_extra": {
+        "text": "Instagram oficial do clã Yggdrasil",
+        "url": "https://www.instagram.com/cla_yggdrasil/?hl=pt-br"
+      },
+      "videos": [
+        {
+          "titulo": "Chamada Epic! Viking Festival 2018",
+          "url": "https://www.youtube.com/watch?v=EPmQKNA1Bts"
+        },
+        {
+          "titulo": "Epic Viking Festival 2017 - Teaser",
+          "url": "https://www.youtube.com/watch?v=e4EqdN3DmyE"
+        },
+        {
+          "titulo": "Epic! Viking Festival 2016",
+          "url": "https://www.youtube.com/watch?v=Y0sCXD8TFaE"
+        },
+        {
+          "titulo": "Vídeo Teaser Epic! Viking Festival 2019",
+          "url": "https://www.facebook.com/epicfestivalspage/videos/1036918053351161/"
+        }       
+      ]
+    },
+    {
+      "titulo": "Shows prestigiados",
+      "cor": "red",
+      "link_extra": {
+        "text": "Trechos de shows que postei no meu canal pessoal",
+        "url": "https://www.youtube.com/channel/UCk9zwdN5v_dZa7pjfll6W8g"
+      },
+      "videos": [
+        {
+          "titulo": "San Sebastian - Sonata Arctica - Porto Alegre 06/03/2017",
+          "url": "https://www.youtube.com/watch?v=UK7yNpzVu8c"
+        },
+        {
+          "titulo": "Emerald Sword - live in Opinião, Porto Alegre 2017.05.10",
+          "url": "https://www.youtube.com/watch?v=qEoy6J1jZTs"
+        }
+      ]
+    },
+    {
+      "titulo": "Old Stufs",
+      "cor": "#6b5be2",
+      "link_extra": {
+        "text": "Bandas antigas e outras velharias",
+        "url": "https://www.youtube.com/channel/UCk9zwdN5v_dZa7pjfll6W8g"
+      },
+      "videos": [
+        {
+          "titulo": "Scions of Destiny - Perfect Strangers - 2008",
+          "url": "https://www.youtube.com/watch?v=mzSpFpchtg0"
+        },
+        {
+          "titulo": "Scions of Destiny - Dust in the wind (cover)",
+          "url": "https://www.youtube.com/watch?v=4itSKUtj90M"
+        },
+        {
+          "titulo": "Mystify - antiga formação pt1",
+          "url": "https://www.youtube.com/watch?v=Clo69pi78PM"
+        },
+        {
+          "titulo": "Mystify - antiga formação pt2",
+          "url": "https://www.youtube.com/watch?v=3loaHWmOuGM"
+        },
+        {
+          "titulo": "Mystify - antiga formação pt3",
+          "url": "https://www.youtube.com/watch?v=xVTBSFm870c"
+        }
+      ]
+    }
+  ]
+}
