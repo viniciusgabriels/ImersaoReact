@@ -29,20 +29,22 @@ function CadastroCategoria() {
   }
 
   useEffect(() => {
-    if (window.location.href.includes('localhost')) {
-      const URL = 'http://localhost:8080/categorias';
-      fetch(URL)
-        .then(async (respostaDoServer) => {
-          if (respostaDoServer.ok) {
-            const resposta = await respostaDoServer.json();
-            setCategorias(resposta);
-            return;
-          }
-          throw new Error('Não foi possível pegar os dados');
-          // setTimeout(() => {
-          // }, 4 * 1000);
-        });
-    }
+    setTimeout(() => {
+      if (window.location.href.includes('localhost')) {
+        const URL = 'http://localhost:8080/categorias';
+        fetch(URL)
+          .then(async (respostaDoServer) => {
+            if (respostaDoServer.ok) {
+              const resposta = await respostaDoServer.json();
+              setCategorias([
+                ...resposta,
+              ]);
+              return;
+            }
+            throw new Error('Não foi possível pegar os dados');
+          });
+      }
+    }, 4 * 1000);
   }, []);
 
   return (
@@ -92,11 +94,11 @@ function CadastroCategoria() {
         </Button>
       </form>
 
-      {/* {categorias.length === 0 && (
+      {categorias.length === 0 && (
         <div>
           Loading...
         </div>
-      )} */}
+      )}
 
       <ul>
         {categorias.map((categoria) => (
