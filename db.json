@@ -1,14 +1,247 @@
 {
-    "categorias": [
-      {
-        "id": 1,
-        "titulo": "Front End",
-        "cor": "#6BD1FF",
-        "link_extra": {
-          "text": "Formação de Front End na Alura",
-          "url": "https://www.alura.com.br/cursos-online-front-end"
-        }
+  "categorias": [
+    {
+      "id": 1,
+      "titulo": "Mystify",
+      "cor": "#6BD1FF",
+      "link_extra": {
+        "text": "Canal oficial da banda Mystify",
+        "url": "https://www.youtube.com/channel/UCYqMgcqxKA4uk8TLeU2DozQ/videos"
+      }
+    },
+    {
+      "id": 2,
+      "titulo": "Automations Band",
+      "cor": "#00C86F",
+      "link_extra": {
+        "text": "Canal oficial da Automations Band",
+        "url": "https://www.youtube.com/channel/UCO5HexTb-r7WZlIE-7Pr0Nw"
+      }
+    },
+    {
+      "id": 3,
+      "titulo": "Games",
+      "cor": "#9cd33b",
+      "link_extra": {
+        "text": "Alguns games que postei no meu canal pessoal",
+        "url": "https://www.youtube.com/channel/UCk9zwdN5v_dZa7pjfll6W8g"
+      }
+    },
+    {
+      "id": 4,
+      "titulo": "Clã Yggdrasil",
+      "cor": "orange",
+      "link_extra": {
+        "text": "Instagram oficial do clã Yggdrasil",
+        "url": "https://www.instagram.com/cla_yggdrasil/?hl=pt-br"
+      }
+    },
+    {
+      "id": 5,
+      "titulo": "Shows prestigiados",
+      "cor": "red",
+      "link_extra": {
+        "text": "Trechos de shows que postei no meu canal pessoal",
+        "url": "https://www.youtube.com/channel/UCk9zwdN5v_dZa7pjfll6W8g"
+      }
+    },
+    {
+      "id": 6,
+      "titulo": "Old Stufs",
+      "cor": "#6b5be2",
+      "link_extra": {
+        "text": "Bandas antigas e outras velharias",
+        "url": "https://www.youtube.com/channel/UCk9zwdN5v_dZa7pjfll6W8g"
+      }
+    }
+  ],
+  "videos": [
+    {
+      "id": 1,
+      "categoriaId": 1,
+      "titulo": "Ensaio formação antiga",
+      "description": "Ensaio descontraído com a formação antiga",
+      "url": "https://www.youtube.com/watch?v=QpTzbdOStpo"
+    },
+    {
+      "id": 2,
+      "categoriaId": 1,
+      "titulo": "Blank infinity (Epica cover)",
+      "description": "Show na Escola de Música Only Music em São Leopoldo/RS - 2017",
+      "url": "https://www.youtube.com/watch?v=K3loxq3n-DA"
+    },
+    {
+      "id": 3,
+      "categoriaId": 1,
+      "titulo": "Emphasis (After Forever cover)",
+      "description": "Show na Escola de Música Only Music em São Leopoldo/RS - 2017",
+      "url": "https://www.youtube.com/watch?v=rVr3FZjxDt8"
+    },
+    {
+      "id": 4,
+      "categoriaId": 1,
+      "titulo": "Discord (After Forever cover)",
+      "description": "Show na Escola de Música Only Music em São Leopoldo/RS - 2017",
+      "url": "https://www.youtube.com/watch?v=cXQXANYNFeI"
+    },
+    {
+      "id": 5,
+      "categoriaId": 1,
+      "titulo": "Hope + Slaying the Dreamer (Ayreon + Nightwish Cover)",
+      "description": "Show na Escola de Música Only Music em São Leopoldo/RS - 2017",
+      "url": "https://www.youtube.com/watch?v=KCJ7b6s4I3M"
+    },
+    {
+      "id": 6,
+      "categoriaId": 1,
+      "titulo": "Elan (Nightwish Cover)",
+      "description": "Show na Escola de Música Only Music em São Leopoldo/RS - 2017",
+      "url": "https://www.youtube.com/watch?v=FS6DfgDTmfM"
+    },
+    {
+      "id": 7,
+      "categoriaId": 1,
+      "titulo": "Quietus (Epica Cover)",
+      "description": "Show na Escola de Música Only Music em São Leopoldo/RS - 2017",
+      "url": "https://www.youtube.com/watch?v=kiL0qgZM8Wo"
+    },
+    {
+      "id": 8,
+      "categoriaId": 2,
+      "titulo": "Proud Mary-Burning love - Share pub",
+      "description": "Performance da Automations Band",
+      "url": "https://www.youtube.com/watch?v=NRK6uOaF1dg"
+    },
+    {
+      "id": 9,
+      "categoriaId": 2,
+      "titulo": "Automations band - Born to be wild",
+      "description": "Performance da Automations Band",
+      "url": "https://www.youtube.com/watch?v=yDgShZJySEs"
+    },
+    {
+      "id": 10,
+      "categoriaId": 2,
+      "titulo": "Automations band - Livin' on a prayer",
+      "description": "Performance da Automations Band",
+      "url": "https://www.youtube.com/watch?v=BDfyLiz-Jng"
+    },
+    {
+      "id": 11,
+      "categoriaId": 3,
+      "titulo": "Castlevania Requiem: SOTN - Easy money without glitch or bug",
+      "description": "Gameplay Symphony of the Night",
+      "url": "https://www.youtube.com/watch?v=jKcnAXA8J7c"
+    },
+    {
+      "id": 12,
+      "categoriaId": 3,
+      "titulo": "Fantasmas Equinos - bad quality",
+      "description": "Gameplay The Witcher 3",
+      "url": "https://www.youtube.com/watch?v=IET1TG8etus"
+    },
+    {
+      "id": 13,
+      "categoriaId": 3,
+      "titulo": "The Witcher 3 - Easter egg Monty Python",
+      "description": "Gameplay The Witcher 3",
+      "url": "https://www.youtube.com/watch?v=pmxqnWQILi0"
+    },
+    {
+      "id": 14,
+      "categoriaId": 3,
+      "titulo": "The Witcher 3 - Belos diálogos",
+      "description": "Gameplay The Witcher 3",
+      "url": "https://youtu.be/6dBlAYX-p8I?t=75"
+    },
+    {
+      "id": 15,
+      "categoriaId": 4,
+      "titulo": "Chamada Epic! Viking Festival 2018",
+      "description": "Epic Festivals - Charqueadas/RS",
+      "url": "https://www.youtube.com/watch?v=EPmQKNA1Bts"
+    },
+    {
+      "id": 16,
+      "categoriaId": 4,
+      "titulo": "Epic Viking Festival 2017 - Teaser",
+      "description": "Epic Festivals - Charqueadas/RS",
+      "url": "https://www.youtube.com/watch?v=e4EqdN3DmyE"
+    },
+    {
+      "id": 17,
+      "categoriaId": 4,
+      "titulo": "Epic! Viking Festival 2016",
+      "description": "Epic Festivals - Charqueadas/RS",
+      "url": "https://www.youtube.com/watch?v=Y0sCXD8TFaE"
+    },
+    {
+      "id": 18,
+      "categoriaId": 4,
+      "titulo": "Vídeo Teaser Epic! Viking Festival 2019",
+      "description": "Epic Festivals - Charqueadas/RS",
+      "url": "https://www.facebook.com/epicfestivalspage/videos/1036918053351161/"
+    },
+    {
+      "id": 19,
+      "categoriaId": 5,
+      "titulo": "San Sebastian - Sonata Arctica - Porto Alegre 06/03/2017",
+      "description": "Metal!!",
+      "url": "https://www.youtube.com/watch?v=UK7yNpzVu8c"
+    },
+    {
+      "id": 20,
+      "categoriaId": 5,
+      "titulo": "Emerald Sword - live in Opinião, Porto Alegre 2017.05.10",
+      "description": "Metal!!",
+      "url": "https://www.youtube.com/watch?v=qEoy6J1jZTs"
+    },
+    {
+      "id": 21,
+      "categoriaId": 6,
+      "titulo": "Scions of Destiny - Perfect Strangers - 2008",
+      "description": "Essa é antiga!",
+      "url": "https://www.youtube.com/watch?v=mzSpFpchtg0"
+    },
+    {
+      "id": 22,
+      "categoriaId": 6,
+      "titulo": "Scions of Destiny - Dust in the wind (cover)",
+      "description": "Essa é antiga!",
+      "url": "https://www.youtube.com/watch?v=4itSKUtj90M"
+    },
+    {
+      "id": 23,
+      "categoriaId": 6,
+      "titulo": "Mystify - antiga formação pt1",
+      "description": "Primeira formação da banda",
+      "url": "https://www.youtube.com/watch?v=Clo69pi78PM"
+    },
+    {
+      "id": 24,
+      "categoriaId": 6,
+      "titulo": "Mystify - antiga formação pt2",
+      "description": "Primeira formação da banda",
+      "url": "https://www.youtube.com/watch?v=3loaHWmOuGM"
+    },
+    {
+      "id": 25,
+      "categoriaId": 6,
+      "titulo": "Mystify - antiga formação pt3",
+      "description": "Primeira formação da banda",
+      "url": "https://www.youtube.com/watch?v=xVTBSFm870c"
+    },
+    {
+      "titulo": "Mystify - My Land cover (Sonata Arctica)",
+      "url": "https://www.youtube.com/watch?v=KpLgXCWebTo",
+      "categoriaId": 1,
+      "id": 26
+    },
+    {
+      "titulo": "Video padrão",
+      "url": "https://www.youtube.com/watch?v=QpTzbdOStpo",
+      "categoriaId": 1,
+      "id": 27
     }
   ]
 }
-
